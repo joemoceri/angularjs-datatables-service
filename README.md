@@ -1,0 +1,1 @@
+# angularjs-datatables-service
