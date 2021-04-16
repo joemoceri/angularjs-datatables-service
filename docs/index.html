@@ -1,0 +1,32 @@
+﻿<!doctype html>
+<html lang="en" ng-app="exampleApp">
+<head>
+    <meta charset="utf-8">
+    <title>Joe Moceri: AngularJS DataTables Service</title>
+    <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="lib/datatables.net-dt/css/jquery.dataTables.css" />
+    <link rel="stylesheet" href="app.css" />
+    <link rel="icon" type="image/x-icon" href="favicon.ico?v=2">
+
+    <script src="lib/jquery/dist/jquery.js"></script>
+    <script src="lib/angular/angular.js"></script>
+    <script src="lib/angular-animate/angular-animate.js"></script>
+    <script src="lib/angular-resource/angular-resource.js"></script>
+    <script src="lib/angular-route/angular-route.js"></script>
+    <script src="lib/datatables.net/js/jquery.dataTables.js"></script>
+    <script src="lib/angular-datatables/dist/angular-datatables.min.js"></script>
+    <script src="lib/angular-datatables/dist/plugins/buttons/angular-datatables.buttons.min.js"></script>
+    <script src="app.module.js"></script>
+    <script src="app.config.js"></script>
+    <script src="example/example.module.js"></script>
+    <script src="example/example.component.js"></script>
+    <script src="angularjs-datatables-service.js"></script>
+</head>
+  <body>
+
+    <div class="view-container">
+      <div ng-view class="view-frame"></div>
+    </div>
+
+  </body>
+</html>
