@@ -24,7 +24,7 @@
     "angular-datatables": "0.6.4",
     "angular-resource": "1.7.x",
     "angular-route": "1.7.x",
-    "bootstrap": "3.3.x",
+    "bootstrap": "3.4.x",
     "datatables.net": "^1.10.19",
     "datatables.net-dt": "^1.10.19",
     "jquery": "^3.6.0"
