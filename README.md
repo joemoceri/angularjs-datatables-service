@@ -8,7 +8,7 @@
 
 <a name="overview"></a>
 ## Overview
-This is an AngularJS service wrapper for angular-datatables.js. 
+This is an AngularJS service wrapper for angular-datatables.js. Please refer to the [demo](https://jmoceri34.github.io/angularjs-datatables-service/) for a complete example.
 
 <a name="install"></a>
 ## Install
